@@ -3,7 +3,7 @@ function receivesAFunction(callback) {
 };
 
 function returnsANamedFunction() {
-    return function Adam() {
+    return function Sunny() {
         console.log('Yay, i have a name')
     };
 };
